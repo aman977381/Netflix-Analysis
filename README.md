@@ -1,1 +1,2 @@
-[📄 View Netflix Report](./Netflix.pdf)
+
+[![Netflix Report](./Netflix/netflix.png)](./Netflix.pdf)
