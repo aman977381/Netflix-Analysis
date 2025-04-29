@@ -1,2 +1,2 @@
 
-[![Netflix Report](./Netflix/netflix.png)](./Netflix.pdf)
+[![Netflix Report](./Netflix/netflix.jpg)](./Netflix.pdf)
